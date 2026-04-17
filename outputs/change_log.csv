@@ -1,0 +1,134 @@
+row_index,name,field,old_value,new_value,source
+72.0,Mine in Jixi,Annual Production Capacity,60000.0,100000,"USGS Minerals Yearbook 2023 — China (Feb 2026), Table 2 (p. 9.24) & Graphite text (p. 9.5-9.6)"
+72.0,Mine in Jixi,Major Operating Company,"Jixi Aoyu Graphite Co., Ltd.",Jixi Aoyu Graphite Co. Ltd.,"USGS Minerals Yearbook 2023 — China (Feb 2026), Table 2 (p. 9.24) & Graphite text (p. 9.5-9.6)"
+74.0,Plant in Qingdao,Annual Production Capacity,-999.0,30000,"USGS Minerals Yearbook 2023 — China (Feb 2026), Table 2 (p. 9.24) & Graphite text (p. 9.5-9.6)"
+74.0,Plant in Qingdao,Major Operating Company,"Qingdao Hensen Graphite Co., Ltd.",Hensen Graphite Co. Ltd.,"USGS Minerals Yearbook 2023 — China (Feb 2026), Table 2 (p. 9.24) & Graphite text (p. 9.5-9.6)"
+71.0,Liumao Mine,Major Operating Company,"Jixi Liumao Graphite Resources Co., Ltd.",Jixi Puchen Graphite Co. Ltd.,"USGS Minerals Yearbook 2023 — China (Feb 2026), Table 2 (p. 9.24) & Graphite text (p. 9.5-9.6)"
+73.0,Mine in Xinghe,Major Operating Company,"Nei Mongol Xinghe Jingxin Graphite Co., Ltd.",Nei Mongol Xinghe Jingyin Graphite Co. Ltd.,"USGS Minerals Yearbook 2023 — China (Feb 2026), Table 2 (p. 9.24) & Graphite text (p. 9.5-9.6)"
+75.0,Qingdao Mine,Major Operating Company,"Qingdao Yanxin Graphite Products Co., Ltd.",Qingdao Yanxin Graphite Products Co. Ltd.,"USGS Minerals Yearbook 2023 — China (Feb 2026), Table 2 (p. 9.24) & Graphite text (p. 9.5-9.6)"
+183.0,Heilongjiang Hegang Graphite Industry,NEW RECORD,,Heilongjiang Hegang Graphite Industry,"USGS Minerals Yearbook 2023 — China (Feb 2026), Table 2 (p. 9.24) & Graphite text (p. 9.5-9.6)"
+184.0,Luobei Haida Graphite,NEW RECORD,,Luobei Haida Graphite,"USGS Minerals Yearbook 2023 — China (Feb 2026), Table 2 (p. 9.24) & Graphite text (p. 9.5-9.6)"
+185.0,Hegang Natural Graphite Processing Facility,NEW RECORD,,Hegang Natural Graphite Processing Facility,"USGS Minerals Yearbook 2023 — China (Feb 2026),  Graphite text (p. 9.5-9.6)"
+186.0,BTR Heilongjiang Natural Graphite (Phase 1),NEW RECORD,,BTR Heilongjiang Natural Graphite (Phase 1),"USGS Minerals Yearbook 2023 — China (Feb 2026),  Graphite text (p. 9.5-9.6)"
+187.0,Jixi Northeast Graphite Flake Plant,NEW RECORD,,Jixi Northeast Graphite Flake Plant,"USGS Minerals Yearbook 2023 — China (Feb 2026),  Graphite text (p. 9.5-9.6)"
+,Leliyn,NEW RECORD,,Leliyn,"Australian graphite: A path to a global battery market opportunity, Table A.2"
+,Siviour,NEW RECORD,,Siviour,"Australian graphite: A path to a global battery market opportunity, Table A.2"
+,Springdale,NEW RECORD,,Springdale,"Australian graphite: A path to a global battery market opportunity, Table A.2"
+,Campoona,NEW RECORD,,Campoona,"Australian graphite: A path to a global battery market opportunity, Table A.2"
+,Mt Dromedary,NEW RECORD,,Mt Dromedary,"Australian graphite: A path to a global battery market opportunity, Table A.2"
+,McIntosh,NEW RECORD,,McIntosh,"Australian graphite: A path to a global battery market opportunity, Table A.2"
+,Bourke,NEW RECORD,,Bourke,"Australian graphite: A path to a global battery market opportunity, Table A.2"
+,Munglinup,NEW RECORD,,Munglinup,"Australian graphite: A path to a global battery market opportunity, Table A.2"
+,Kookaburra Gully,NEW RECORD,,Kookaburra Gully,"Australian graphite: A path to a global battery market opportunity, Table A.2"
+,Uley,NEW RECORD,,Uley,"Australian graphite: A path to a global battery market opportunity, Table A.2"
+,Graphite Bull,NEW RECORD,,Graphite Bull,"Australian graphite: A path to a global battery market opportunity, Table A.2"
+,Oakdale,NEW RECORD,,Oakdale,"Australian graphite: A path to a global battery market opportunity, Table A.2"
+,Corella,NEW RECORD,,Corella,"Australian graphite: A path to a global battery market opportunity, Table A.2"
+,Esmerelda,NEW RECORD,,Esmerelda,"Australian graphite: A path to a global battery market opportunity, Table A.2"
+92.0,Yunshan,Total Resource (mt),,22644000,USGS Flake Graphite Deposits 2024
+92.0,Yunshan,Resource Grade (TGC%),,9.92,USGS Flake Graphite Deposits 2024
+71.0,Liumao Mine,Total Resource (mt),,28300000,USGS Flake Graphite Deposits 2024
+71.0,Liumao Mine,Resource Grade (TGC%),,16.0,USGS Flake Graphite Deposits 2024
+1.0,Graphmada Mine,Total Resource (mt),,61900000,USGS Flake Graphite Deposits 2024
+1.0,Graphmada Mine,Resource Grade (TGC%),,4.5,USGS Flake Graphite Deposits 2024
+58.0,Molo,Total Resource (mt),,141280000,USGS Flake Graphite Deposits 2024
+58.0,Molo,Resource Grade (TGC%),,6.127,USGS Flake Graphite Deposits 2024
+55.0,Malingunde,Total Resource (mt),,14500000,USGS Flake Graphite Deposits 2024
+55.0,Malingunde,Resource Grade (TGC%),,9.7,USGS Flake Graphite Deposits 2024
+41.0,Dombeya,Total Resource (mt),,56000000,USGS Flake Graphite Deposits 2024
+41.0,Dombeya,Resource Grade (TGC%),,7.0,USGS Flake Graphite Deposits 2024
+4.0,Ancuabe Graphite Mine,Total Resource (mt),,71000000,USGS Flake Graphite Deposits 2024
+4.0,Ancuabe Graphite Mine,Resource Grade (TGC%),,6.46,USGS Flake Graphite Deposits 2024
+5.0,Balama Graphite Operation,Total Resource (mt),,72300000,USGS Flake Graphite Deposits 2024
+5.0,Balama Graphite Operation,Resource Grade (TGC%),,10.0,USGS Flake Graphite Deposits 2024
+59.0,Montepuez central,Total Resource (mt),,161800000,USGS Flake Graphite Deposits 2024
+59.0,Montepuez central,Resource Grade (TGC%),,8.1,USGS Flake Graphite Deposits 2024
+33.0,Balama,Total Resource (mt),,1576000000,USGS Flake Graphite Deposits 2024
+33.0,Balama,Resource Grade (TGC%),,10.7,USGS Flake Graphite Deposits 2024
+36.0,Black Range,Total Resource (mt),,12460000,USGS Flake Graphite Deposits 2024
+36.0,Black Range,Resource Grade (TGC%),,4.63,USGS Flake Graphite Deposits 2024
+6.0,Okanjande Mine,Total Resource (mt),,60400000,USGS Flake Graphite Deposits 2024
+6.0,Okanjande Mine,Resource Grade (TGC%),,4.89,USGS Flake Graphite Deposits 2024
+109.0,Taehwa Project,Total Resource (mt),,5600000,USGS Flake Graphite Deposits 2024
+109.0,Taehwa Project,Resource Grade (TGC%),,5.5,USGS Flake Graphite Deposits 2024
+115.0,Geumam,Total Resource (mt),,7200000,USGS Flake Graphite Deposits 2024
+115.0,Geumam,Resource Grade (TGC%),,5.46,USGS Flake Graphite Deposits 2024
+38.0,Chilalo,Total Resource (mt),,20100000,USGS Flake Graphite Deposits 2024
+38.0,Chilalo,Resource Grade (TGC%),,9.9,USGS Flake Graphite Deposits 2024
+42.0,Epanko,Total Resource (mt),,34200000,USGS Flake Graphite Deposits 2024
+42.0,Epanko,Resource Grade (TGC%),,9.1,USGS Flake Graphite Deposits 2024
+48.0,Lindi Jumbo,Total Resource (mt),,41800000,USGS Flake Graphite Deposits 2024
+48.0,Lindi Jumbo,Resource Grade (TGC%),,10.8,USGS Flake Graphite Deposits 2024
+64.0,Nachu,Total Resource (mt),,174000000,USGS Flake Graphite Deposits 2024
+64.0,Nachu,Resource Grade (TGC%),,5.4,USGS Flake Graphite Deposits 2024
+51.0,Mahenge Liandu,Total Resource (mt),,213100000,USGS Flake Graphite Deposits 2024
+51.0,Mahenge Liandu,Resource Grade (TGC%),,7.8,USGS Flake Graphite Deposits 2024
+37.0,Bunyu,Total Resource (mt),,588400000,USGS Flake Graphite Deposits 2024
+37.0,Bunyu,Resource Grade (TGC%),,4.79,USGS Flake Graphite Deposits 2024
+202.0,Golden Gate Project,NEW RECORD,,Golden Gate Project,USGS Flake Graphite Deposits 2024
+203.0,Santa Cruz,NEW RECORD,,Santa Cruz,USGS Flake Graphite Deposits 2024
+204.0,Bell Graphite Project,NEW RECORD,,Bell Graphite Project,USGS Flake Graphite Deposits 2024
+205.0,Asbury,NEW RECORD,,Asbury,USGS Flake Graphite Deposits 2024
+206.0,Matawinie Graphite Project (South Zone),NEW RECORD,,Matawinie Graphite Project (South Zone),USGS Flake Graphite Deposits 2024
+207.0,Bissett Creek,NEW RECORD,,Bissett Creek,USGS Flake Graphite Deposits 2024
+208.0,Matawinie Graphite Project (West Zone),NEW RECORD,,Matawinie Graphite Project (West Zone),USGS Flake Graphite Deposits 2024
+209.0,Dawudian Graphite Mine,NEW RECORD,,Dawudian Graphite Mine,USGS Flake Graphite Deposits 2024
+210.0,Amitsoq,NEW RECORD,,Amitsoq,USGS Flake Graphite Deposits 2024
+211.0,Lola Graphite Project,NEW RECORD,,Lola Graphite Project,USGS Flake Graphite Deposits 2024
+212.0,Katengeza,NEW RECORD,,Katengeza,USGS Flake Graphite Deposits 2024
+213.0,Duwi,NEW RECORD,,Duwi,USGS Flake Graphite Deposits 2024
+214.0,El Tejon Production,NEW RECORD,,El Tejon Production,USGS Flake Graphite Deposits 2024
+215.0,Trælen,NEW RECORD,,Trælen,USGS Flake Graphite Deposits 2024
+216.0,Vardfjellet,NEW RECORD,,Vardfjellet,USGS Flake Graphite Deposits 2024
+217.0,Grunnvåg,NEW RECORD,,Grunnvåg,USGS Flake Graphite Deposits 2024
+218.0,Vikeid Central,NEW RECORD,,Vikeid Central,USGS Flake Graphite Deposits 2024
+219.0,Smines,NEW RECORD,,Smines,USGS Flake Graphite Deposits 2024
+220.0,Haugsnes,NEW RECORD,,Haugsnes,USGS Flake Graphite Deposits 2024
+221.0,Instøya,NEW RECORD,,Instøya,USGS Flake Graphite Deposits 2024
+222.0,Romset,NEW RECORD,,Romset,USGS Flake Graphite Deposits 2024
+223.0,Litljkollen,NEW RECORD,,Litljkollen,USGS Flake Graphite Deposits 2024
+224.0,Vikeid West,NEW RECORD,,Vikeid West,USGS Flake Graphite Deposits 2024
+225.0,Kearney Graphite Mine,NEW RECORD,,Kearney Graphite Mine,USGS Flake Graphite Deposits 2024
+226.0,Lac Gueret South,NEW RECORD,,Lac Gueret South,USGS Flake Graphite Deposits 2024
+227.0,Mousseau West Property,NEW RECORD,,Mousseau West Property,USGS Flake Graphite Deposits 2024
+228.0,La Loutre Project,NEW RECORD,,La Loutre Project,USGS Flake Graphite Deposits 2024
+229.0,Lac Knife,NEW RECORD,,Lac Knife,USGS Flake Graphite Deposits 2024
+230.0,Lac Gueret,NEW RECORD,,Lac Gueret,USGS Flake Graphite Deposits 2024
+231.0,Soyuznoye,NEW RECORD,,Soyuznoye,USGS Flake Graphite Deposits 2024
+232.0,Steamboat,NEW RECORD,,Steamboat,USGS Flake Graphite Deposits 2024
+233.0,Koppio Historic Mine,NEW RECORD,,Koppio Historic Mine,USGS Flake Graphite Deposits 2024
+234.0,Wilclo South,NEW RECORD,,Wilclo South,USGS Flake Graphite Deposits 2024
+235.0,"Woxna Graphite Project, Gropabo Deposit",NEW RECORD,,"Woxna Graphite Project, Gropabo Deposit",USGS Flake Graphite Deposits 2024
+236.0,"Woxna Graphite Project, Kringel Deposit",NEW RECORD,,"Woxna Graphite Project, Kringel Deposit",USGS Flake Graphite Deposits 2024
+237.0,Raitajärvi Graphite Project,NEW RECORD,,Raitajärvi Graphite Project,USGS Flake Graphite Deposits 2024
+238.0,"Woxna Graphite Project, Mattsmyra Deposit",NEW RECORD,,"Woxna Graphite Project, Mattsmyra Deposit",USGS Flake Graphite Deposits 2024
+239.0,Vittangi,NEW RECORD,,Vittangi,USGS Flake Graphite Deposits 2024
+240.0,Jalkunen,NEW RECORD,,Jalkunen,USGS Flake Graphite Deposits 2024
+241.0,Zavalyevskiy,NEW RECORD,,Zavalyevskiy,USGS Flake Graphite Deposits 2024
+242.0,Coosa,NEW RECORD,,Coosa,USGS Flake Graphite Deposits 2024
+243.0,Graphite Creek,NEW RECORD,,Graphite Creek,USGS Flake Graphite Deposits 2024
+244.0,Yalbra,NEW RECORD,,Yalbra,USGS Flake Graphite Deposits 2024
+245.0,Ceylon,NEW RECORD,,Ceylon,USGS Flake Graphite Deposits 2024
+246.0,Hesten,NEW RECORD,,Hesten,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+247.0,Bukken,NEW RECORD,,Bukken,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+248.0,Skardsvåg,NEW RECORD,,Skardsvåg,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+249.0,Kjerkhaugen,NEW RECORD,,Kjerkhaugen,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+250.0,Møkland,NEW RECORD,,Møkland,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+251.0,Rise,NEW RECORD,,Rise,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+252.0,Sommarland,NEW RECORD,,Sommarland,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+253.0,Brenna,NEW RECORD,,Brenna,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+254.0,Evassåsen,NEW RECORD,,Evassåsen,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+218.0,Vikeid Central,Resource Grade (TGC%),13.8,11.3,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+255.0,Ånstad,NEW RECORD,,Ånstad,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+256.0,Alsvåg,NEW RECORD,,Alsvåg,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+257.0,Rødhamran,NEW RECORD,,Rødhamran,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+258.0,Skogsøya,NEW RECORD,,Skogsøya,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+259.0,Svinøya,NEW RECORD,,Svinøya,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+260.0,Jennestad,NEW RECORD,,Jennestad,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+261.0,Myre,NEW RECORD,,Myre,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+262.0,Nord-Værnes,NEW RECORD,,Nord-Værnes,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+263.0,Rendalsvik,NEW RECORD,,Rendalsvik,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+175.0,Itapecerica,REMOVED (shared capacity),Itapecerica,Duplicate of Salto da Divisa,Deduplication
+177.0,Pedra Azul,REMOVED (shared capacity),Pedra Azul,Duplicate of Salto da Divisa,Deduplication
+179.0,San Juan Mine,REMOVED (shared capacity),San Juan Mine,Duplicate of Lourdes Mine,Deduplication
+179.0,Topiyeca Mine,REMOVED (shared capacity),Topiyeca Mine,Duplicate of Lourdes Mine,Deduplication
