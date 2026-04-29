@@ -1,0 +1,238 @@
+P_ID_NUMBER,NAME,REGION,LATITUDE,LONGITUDE,DEPOSIT_TYPE,COMMODITY,REMAINING_RESOURCE,PRODUCTION_CAPACITY,STATUS,DISCOVERY_YEAR,START_YEAR,DEVELOPMENT_PROBABILITY,GRADE,RECOVERY,BROWNFIELD_TONNAGE_FACTOR,BROWNFIELD_GRADE_FACTOR,VALUE_NET,VALUE_RECOVERY_NET,MINE_COST_MODEL,MINE_COST_A,MINE_COST_B,MINE_COST_C,MINE_COST_D,REVENUE_MODEL,REVENUE_A,REVENUE_B,REVENUE_C,REVENUE_D,COST_MODEL,COST_A,COST_B,COST_C,COST_D
+0,Gallois Mine,Madagascar,-19.230198,48.945072,Flake graphite,graphite,,150000.0,2,,2017.0,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+1,Graphmada Mine,Madagascar,-18.918806,48.991245,Flake graphite,graphite,61900000.0,6000.0,2,,,1.0,0.045,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+2,Mine in Atsinanana Region,Madagascar,-18.445449,49.218047,Flake graphite,graphite,,63000.0,2,,2021.0,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+3,Sahamamy-Sahasoa Mine,Madagascar,-18.568337,48.9757,Flake graphite,graphite,,21000.0,2,,2019.0,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+4,Ancuabe Graphite Mine,Mozambique,-13.004066,40.000666,Flake graphite,graphite,71000000.0,9000.0,2,,2017.0,1.0,0.0646,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+5,Balama Graphite Operation,Mozambique,-13.309337,38.661168,Flake graphite,graphite,72300000.0,356000.0,2,,2017.0,1.0,0.1,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+6,Okanjande Mine,Namibia,-20.599951,16.622975,Flake graphite,graphite,60400000.0,31000.0,1,,2024.0,0.25,0.0489,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+7,Lynx Graphite Mine,Zimbabwe,-16.597273,29.453626,Flake graphite,graphite,,,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+8,Chawia,Kenya,-3.4648,38.38447,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+9,Oldoinyo,Kenya,0.74994,37.0,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+10,Ambatomitamba Sahanovo Area,Madagascar,-18.34688,49.10105,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+11,Perinet,Madagascar,-18.93014,48.45106,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+12,Gumbu Graphite Mine,South Africa,-22.31516,30.66667,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+13,Malonga Graphite Mine,South Africa,-22.64848,30.88333,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+14,Lynx Mine,Zimbabwe,-16.43043,29.30134,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+15,Ampangadiatany,Madagascar,-19.408,48.891,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+16,Vatomandry Area,Madagascar,-19.341,48.945,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+17,Sahamamy,Madagascar,-18.5833,48.9167,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+18,Marovinsky,Madagascar,-19.2333,48.95,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+19,Gargaresh,Libya,32.8251,12.9676,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+20,Ambatomitamba,Madagascar,-18.35,48.9833,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+21,Andasifahatelo Mine,Madagascar,-18.9,48.4333,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+22,Antsirakambo,Madagascar,-18.4833,49.15,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+23,Antsiribe,Madagascar,-18.2667,49.1333,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+24,Faliarano,Madagascar,-18.8833,48.4167,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+25,Sahanavo,Madagascar,-18.45,48.9167,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+26,Tamataue,Madagascar,-18.1667,49.3833,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+27,Tsaravoniany,Madagascar,-18.75,48.4333,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+28,Lynx,Zimbabwe,-16.6,29.43333,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+29,6142L,Mozambique,-13.20998,38.67325,Flake graphite,graphite,,,0,,2015.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+30,Antanisoa,Madagascar,-19.62,47.49,Flake graphite,graphite,,,0,,2013.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+31,Antsirabe,Madagascar,-18.52,48.597,Flake graphite,graphite,,,0,,2013.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+32,Balama,Mozambique,-13.1705,38.79699,Flake graphite,graphite,1576000000.0,,1,,2018.0,0.25,0.107,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+33,Belanitra,Madagascar,-19.645,47.999,Flake graphite,graphite,,,0,,2013.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+34,Black Range,Namibia,-21.96773,15.24388,Flake graphite,graphite,12460000.0,,0,,2017.0,0.1,0.0463,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+35,Bunyu,Tanzania,-10.29905,39.15626,Flake graphite,graphite,588400000.0,24000.0,1,,2025.0,0.25,0.0479,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+36,Chilalo,Tanzania,-9.95093,38.72631,Flake graphite,graphite,20100000.0,52000.0,1,,2025.0,0.25,0.099,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+37,Chiliogali,Tanzania,-10.416,38.839,Flake graphite,graphite,,,0,,2016.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+38,Chiziro,Malawi,-13.71,34.099,Flake graphite,graphite,,,0,,2015.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+39,Dombeya,Mozambique,-13.44083,40.30976,Flake graphite,graphite,56000000.0,,1,,2016.0,0.5,0.07,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+40,Epanko,Tanzania,-8.585273,36.655357,Flake graphite,graphite,34200000.0,,1,,2018.0,0.25,0.091,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+41,Globe,Zimbabwe,-19.08525,27.10953,Flake graphite,graphite,,,0,,2015.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+42,Injaa Hill,Tanzania,-10.36,38.94,Flake graphite,graphite,,,0,,2014.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+43,Kitgum,Uganda,3.39,33.61,Flake graphite,graphite,,,0,,2015.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+44,Lindi Jumbo,Tanzania,-9.91712,38.9065,Flake graphite,graphite,41800000.0,40000.0,1,,2024.0,0.5,0.10800000000000001,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+45,Madagascar,Madagascar,-18.883333,48.416667,Flake graphite,graphite,,,0,,2009.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+46,Madagascar,Madagascar,-18.56,49.16,Flake graphite,graphite,,,0,,2013.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+47,Mahenge Liandu,Tanzania,-8.73571,36.73159,Flake graphite,graphite,213100000.0,174000.0,1,,2025.0,0.25,0.078,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+48,Mahenge North,Tanzania,-8.85294,36.72278,Flake graphite,graphite,,,1,,2016.0,0.25,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+49,Mahenge South,Tanzania,-9.047,36.72,Flake graphite,graphite,,,0,,2014.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+50,Makonde,Tanzania,-8.77,36.73,Flake graphite,graphite,,,0,,2015.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+51,Malingunde,Malawi,-14.31259,33.93294,Flake graphite,graphite,14500000.0,,0,,2015.0,0.1,0.09699999999999999,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+52,Maniry,Madagascar,-24.52345,44.85585,Flake graphite,graphite,,39000.0,1,,2024.0,0.25,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+53,Merelani-Arusha,Tanzania,-3.588,37.238,Flake graphite,graphite,,,0,,2015.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+54,Molo,Madagascar,-23.99893,45.13187,Flake graphite,graphite,141280000.0,45000.0,2,,2023.0,1.0,0.06127,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+55,Montepuez central,Mozambique,-12.8042,38.71666,Flake graphite,graphite,161800000.0,,1,,2015.0,0.5,0.081,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+56,Moyale,Ethiopia,3.53882,39.00736,Flake graphite,graphite,,,0,,2014.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+57,Mozambique,Mozambique,-13.376,40.29747,Flake graphite,graphite,,,0,,2014.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+58,Nachingwea,Tanzania,-10.35549,38.94003,Flake graphite,graphite,,,0,,2015.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+59,Nachu,Tanzania,-9.90747,38.868,Flake graphite,graphite,174000000.0,236000.0,1,,2025.0,0.25,0.054000000000000006,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+60,Ruangwa,Tanzania,-9.79756,39.14175,Flake graphite,graphite,,,0,,2014.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+61,Toamasina,Madagascar,-18.52065,49.11102,Flake graphite,graphite,,,1,,2012.0,0.5,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+62,Vatomaina,Madagascar,-18.57571,49.11425,Flake graphite,graphite,,,1,,2016.0,0.5,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+63,Waya Waya,Chad,14.85435,21.78082,Flake graphite,graphite,,,0,,2015.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+64,Western Ethiopia,Ethiopia,7.96688,34.52691,Flake graphite,graphite,,,0,,2013.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+65,Zimbabwe German,Zimbabwe,-16.59507,29.45208,Flake graphite,graphite,,,0,,2012.0,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+66,Liumao Mine,China,45.08,130.78,Flake graphite,graphite,28300000.0,80000.0,2,,,1.0,0.16,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+67,Mine in Jixi,China,45.62,132.46,Flake graphite,graphite,,100000.0,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+68,Mine in Xinghe,China,40.87,113.87,Flake graphite,graphite,,10000.0,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+69,Qingdao Mine,China,36.7327,119.9238,Flake graphite,graphite,,28000.0,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+70,Liumao,China,45.0856,130.7846,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+71,Yunshan,China,45.9167,132.4833,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+72,Heling,China,46.3145,129.55,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+73,Jixi (Liu Mao),China,45.2811,131.0,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+74,Liu Mao,China,45.2978,131.0666,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+75,Honan Deposits,China,32.4986,113.8826,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+76,Hunan,China,25.9991,112.9994,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+77,Panshi,China,42.9311,125.9666,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+78,Hohot,China,40.8148,111.616,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+79,Shandong Peninsula,China,37.0317,120.3158,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+80,Xing He,China,40.8833,113.8833,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+81,Qitaihe,China,45.84,131.11,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+82,Jiucaigou,China,33.3599999999999,111.75,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+83,Shizhai,China,33.5099999999999,111.379999999999,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+84,Huogeqi,China,41.2899999999999,106.64,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+85,Bayannur Graphite Project,China,40.7199999999999,107.39,Flake graphite,graphite,,,1,,,0.5,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+86,Yunshan,China,47.8288,130.6416,Flake graphite,graphite,22644000.0,,1,,,0.5,0.0992,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+87,Kahatagaha Mine,Sri Lanka,7.5743,80.5477,Flake graphite,graphite,,780.0,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+88,Ragedara Mine,Sri Lanka,7.6344,80.5388,Flake graphite,graphite,,500.0,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+89,Bogala Mine,Sri Lanka,7.1163,80.3095,Flake graphite,graphite,,7000.0,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+90,Nam Thi Mine,Vietnam,22.22,104.38,Flake graphite,graphite,,,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+91,Takti Chu Graphite Deposit,Bhutan,27.1,89.56,Flake graphite,graphite,,,1,,,0.25,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+92,Chelela ,Bhutan,27.38,89.33,Flake graphite,graphite,,,1,,,0.25,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+93,M1 Development,Sri Lanka,7.69,80.53,Flake graphite,graphite,,,1,,,0.5,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+94,Khepcheshi ,Bhutan,27.38,89.33,Flake graphite,graphite,,,1,,,0.25,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+95,Daewon,"Korea, South",37.51,127.93,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+96,Taehwa Project,"Korea, South",37.83,127.85,Flake graphite,graphite,5600000.0,,0,,,0.1,0.055,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+97,Gapyeong,"Korea, South",37.76,127.54,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+98,Yongwon,"Korea, South",36.98,127.69,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+99,Wolmyeong,"Korea, South",36.35,127.89,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+100,Eunha,"Korea, South",36.57,126.52,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+101,Geumam,"Korea, South",36.92,126.65,Flake graphite,graphite,7200000.0,,1,,,0.25,0.0546,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+102,Project Wara South Asia,Sri Lanka,8.3933,81.3352,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+103,H1 Development,Sri Lanka,7.88,80.56,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+104,AvissaWella Project,Sri Lanka,6.95,80.24,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+105,Bopitiya Project,Sri Lanka,7.13,80.23,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+106,Dumbara Project,Sri Lanka,6.73,80.21,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+107,Gabbala Project,Sri Lanka,7.35,80.4,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+108,Kithulgala Project,Sri Lanka,7.05,80.32,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+109,Kukulaga Project,Sri Lanka,6.67,80.25,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+110,Waharaka Project,Sri Lanka,7.04,80.2,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+111,Aluketiya Project,Sri Lanka,6.42,80.19,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+112,Dehiowita Project,Sri Lanka,6.94,80.22,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+113,P1 Development,Sri Lanka,7.17,80.11,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+114,Ridee Ganga Project,Sri Lanka,6.61,80.04,Flake graphite,graphite,,,1,,,0.25,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+115,Yattawatura Project,Sri Lanka,6.86,80.16,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+116,Mine in Jharkhand Province,India,23.83,85.43,Flake graphite,graphite,,56000.0,1,,,0.6,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+117,Quarry in Tamil Nadu Province,India,11.35,78.18,Flake graphite,graphite,,,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+118,Tamil Nadu Minerals Graphite Benefication Plant,India,11.35,78.18,Flake graphite,graphite,,7000.0,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+119,Sinwon Mine,"Korea, North",40.8448,128.0808,Flake graphite,graphite,,,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+120,Wonri Mine,"Korea, North",39.7633,125.9213,Flake graphite,graphite,,1000.0,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+121,Yongchon (Ryongchon) Mine,"Korea, North",39.9741,124.4177,Flake graphite,graphite,,,1,,,0.6,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+122,Heungsan Mine,"Korea, North",37.988,125.9998,Flake graphite,graphite,,2000.0,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+123,Jeongchon Mine,"Korea, North",37.9181,126.1135,Flake graphite,graphite,,3000.0,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+124,Istrombi,Afghanistan,36.1985,70.772,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+125,Sanglich Graphite,Afghanistan,36.6606,71.3423,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+126,Yakhdarra,Afghanistan,36.9877,71.3627,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+127,Khawri,Afghanistan,34.2171,69.7516,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+128,Charkh Graphite,Afghanistan,33.7546,68.8844,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+129,Shahkabul,Afghanistan,34.3227,68.8235,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+130,East Godavari,India,17.38317,81.85029,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+131,Srikakulam,India,18.33308,83.10026,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+132,Visakhapatnam,India,18.01651,82.93356,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+133,Khamdih,India,23.96598,84.21694,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+134,Sokra,India,23.96598,84.13354,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+135,Dandatapa Area,India,20.79955,84.60022,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+136,Sargipali Area,India,20.89955,83.08356,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+137,Titlagarh Area,India,20.19961,83.36695,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+138,Tumdibandh-Phulbani Area,India,19.83294,83.63355,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+139,Tamatia Mines,India,23.61603,74.50049,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+140,Madurai,India,10.06728,77.83368,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+141,Khammam,India,17.38317,81.3336,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+142,Songjin Deposits,"Korea, North",40.66503,129.19888,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+143,Yonghung-Kaechon Area,"Korea, North",39.83165,127.43224,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+144,Ekta,India,23.9375,84.3162,Flake graphite,graphite,,,1,,,0.5,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+145,Satbarwa,India,23.34,85.31,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+146,Balai Sebut,Indonesia,0.4778,110.8988,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+147,Tamboli,Indonesia,-3.92,121.35,Flake graphite,graphite,,,1,,,0.5,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+148,Maiquinique,Brazil,-15.7794,-40.3215,Flake graphite,graphite,,2000.0,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+149,Mateus Leme,Brazil,-20.0379,-44.4351,Flake graphite,graphite,,2000.0,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+150,Lourdes Mine,Mexico,28.4835,-110.6839,Flake graphite,graphite,,60000.0,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+151,Heilongjiang Hegang Graphite Industry,China,,,Flake graphite,graphite,,,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+152,Luobei Haida Graphite,China,,,Flake graphite,graphite,,,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+153,Hegang Natural Graphite Processing Facility,China,,,Flake graphite,graphite,,200000.0,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+154,BTR Heilongjiang Natural Graphite (Phase 1),China,,,Flake graphite,graphite,,50000.0,2,,,1.0,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+155,Jixi Northeast Graphite Flake Plant,China,,,Flake graphite,graphite,,100000.0,1,,,0.5,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+156,Leliyn,Australia,,,Flake graphite,graphite,194600000.0,,0,,,0.1,0.073,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+157,Siviour,Australia,,,Flake graphite,graphite,123600000.0,,0,,,0.1,0.069,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+158,Springdale,Australia,,,Flake graphite,graphite,49300000.0,,0,,,0.1,0.0643,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+159,Campoona,Australia,,,Flake graphite,graphite,35150000.0,,0,,,0.1,0.0599,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+160,Mt Dromedary,Australia,,,Flake graphite,graphite,14300000.0,,0,,,0.1,0.1333,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+161,McIntosh,Australia,,,Flake graphite,graphite,30100000.0,,0,,,0.1,0.044000000000000004,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+162,Bourke,Australia,,,Flake graphite,graphite,9100000.0,,0,,,0.1,0.14400000000000002,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+163,Munglinup,Australia,,,Flake graphite,graphite,7990000.0,,0,,,0.1,0.122,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+164,Kookaburra Gully,Australia,,,Flake graphite,graphite,12840000.0,,0,,,0.1,0.0757,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+165,Uley,Australia,,,Flake graphite,graphite,6900000.0,,0,,,0.1,0.10980000000000001,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+166,Graphite Bull,Australia,,,Flake graphite,graphite,4000000.0,,0,,,0.1,0.161,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+167,Oakdale,Australia,,,Flake graphite,graphite,6320000.0,,0,,,0.1,0.047,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+168,Corella,Australia,,,Flake graphite,graphite,13500000.0,,0,,,0.1,0.095,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+169,Esmerelda,Australia,,,Flake graphite,graphite,434500000.0,,0,,,0.1,0.057999999999999996,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+170,Golden Gate Project,Australia,-18.16085,142.20795,Flake graphite,graphite,20000000.0,,0,,,0.1,0.055,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+171,Santa Cruz,Brazil,-16.55550151,-39.60322818,Flake graphite,graphite,22800000.0,,0,,,0.1,0.023,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+172,Bell Graphite Project,Canada,45.5916581,-75.3667521,Flake graphite,graphite,3380000.0,,0,,,0.1,0.03,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+173,Asbury,Canada,46.1443032,-75.5525925,Flake graphite,graphite,4700000.0,,0,,,0.1,0.08689999999999999,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+174,Matawinie Graphite Project (South Zone),Canada,46.6165695,-73.922326,Flake graphite,graphite,45500000.0,103000.0,0,,2026.0,0.1,0.036699999999999997,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+175,Bissett Creek,Canada,46.1248429,-78.0569456,Flake graphite,graphite,122500000.0,44000.0,0,,2026.0,0.1,0.018000000000000002,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+176,Matawinie Graphite Project (West Zone),Canada,46.6327916,-73.9654657,Flake graphite,graphite,142800000.0,,0,,,0.1,0.04190000000000001,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+177,Dawudian Graphite Mine,China,41.714002,108.062157,Flake graphite,graphite,680000000.0,,0,,,0.1,0.038,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+178,Amitsoq,Greenland,60.2856587,-45.1266969,Flake graphite,graphite,23000000.0,,0,,,0.1,0.2,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+179,Lola Graphite Project,Guinea,7.77998,-8.55559,Flake graphite,graphite,50300000.0,92000.0,1,,2026.0,0.25,0.0408,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+180,Katengeza,Malawi,-13.761893,34.2340037,Flake graphite,graphite,2700000.0,,0,,,0.1,0.057999999999999996,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+181,Duwi,Malawi,-13.9634669,33.9699276,Flake graphite,graphite,8600000.0,,0,,,0.1,0.071,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+182,El Tejon Production,Mexico,17.3316,-96.9145,Flake graphite,graphite,22935423.0,,0,,,0.1,0.0352,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+183,Trælen,Norway,69.4959604,17.2072162,Flake graphite,graphite,1800000.0,,0,,,0.1,0.31,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+184,Vardfjellet,Norway,69.4301425,17.7542465,Flake graphite,graphite,12840000.0,,0,,,0.1,0.092,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+185,Grunnvåg,Norway,69.4003663,18.019145,Flake graphite,graphite,22770000.0,,0,,,0.1,0.052000000000000005,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+186,Vikeid Central,Norway,68.7683427,15.2717912,Flake graphite,graphite,8890000.0,,0,,,0.1,0.113,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+187,Smines,Norway,68.8657275,14.9740205,Flake graphite,graphite,18890000.0,,0,,,0.1,0.071,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+188,Haugsnes,Norway,68.6873724,14.7061549,Flake graphite,graphite,8400000.0,,0,,,0.1,0.162,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+189,Instøya,Norway,68.9081465,15.3091336,Flake graphite,graphite,14820000.0,,0,,,0.1,0.09300000000000001,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+190,Romset,Norway,68.8263746,15.0147025,Flake graphite,graphite,9630000.0,,0,,,0.1,0.147,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+191,Litljkollen,Norway,69.4272509,17.9072841,Flake graphite,graphite,34540000.0,,0,,,0.1,0.053,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+192,Vikeid West,Norway,68.7621661,15.2374263,Flake graphite,graphite,29630000.0,,0,,,0.1,0.113,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+193,Kearney Graphite Mine,Canada,45.7255532,-79.0832089,Flake graphite,graphite,98300000.0,,0,,,0.1,0.02,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+194,Lac Gueret South,Canada,51.0532894,-69.0976712,Flake graphite,graphite,2290000.0,,0,,,0.1,0.16699999999999998,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+195,Mousseau West Property,Canada,46.6159654,-74.9880764,Flake graphite,graphite,6500000.0,,0,,,0.1,0.0663,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+196,La Loutre Project,Canada,46.0363776,-75.0057995,Flake graphite,graphite,35100000.0,,0,,,0.1,0.0346,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+197,Lac Knife,Canada,52.54974,-67.18179,Flake graphite,graphite,12600000.0,,0,,,0.1,0.1612,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+198,Lac Gueret,Canada,51.124706,-69.0621735,Flake graphite,graphite,83153000.0,,0,,,0.1,0.172,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+199,Uralskiy Grafit,Russia,50.833651,60.178645,Flake graphite,graphite,116000000.0,20000.0,2,,,1.0,0.13,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+200,Steamboat,South Africa,-23.3343822,29.4371157,Flake graphite,graphite,3500000.0,,0,,,0.1,0.08800000000000001,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+201,Koppio Historic Mine,Australia,-34.427326,135.9080366,Flake graphite,graphite,3060000.0,,0,,,0.1,0.0716,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+202,Wilclo South,Australia,-33.2984524,136.4433628,Flake graphite,graphite,6380000.0,,0,,,0.1,0.08800000000000001,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+203,"Woxna Graphite Project, Gropabo Deposit",Sweden,61.5203206,15.4172984,Flake graphite,graphite,2940000.0,,0,,,0.1,0.07894999999999999,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+204,"Woxna Graphite Project, Kringel Deposit",Sweden,61.4102295,15.6156947,Flake graphite,graphite,3182000.0,,0,,,0.1,0.091,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+205,Raitajärvi Graphite Project,Sweden,66.47101,23.15497,Flake graphite,graphite,4300000.0,,0,,,0.1,0.071,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+206,"Woxna Graphite Project, Mattsmyra Deposit",Sweden,61.4989091,15.4620508,Flake graphite,graphite,7340000.0,,0,,,0.1,0.076,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+207,Vittangi,Sweden,67.7152115,21.4063196,Flake graphite,graphite,12600000.0,,0,,,0.1,0.255,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+208,Jalkunen,Sweden,67.314,22.086,Flake graphite,graphite,31500000.0,,0,,,0.1,0.149,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+209,Zavalyevskiy,Ukraine,48.2049049,30.0290448,Flake graphite,graphite,100000000.0,,0,,,0.1,0.055,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+210,Coosa,United States,32.9108891,-86.4038059,Flake graphite,graphite,178335000.0,,0,,,0.1,0.022850000000000002,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+211,Graphite Creek,United States,65.03951759,-165.5321782,Flake graphite,graphite,370380000.0,,0,,,0.1,0.0461,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+212,Yalbra,Australia,-25.5608062,116.3512256,Flake graphite,graphite,4000000.0,,0,,,0.1,0.161,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+213,Ceylon,United States,33.07743,-86.1567,Flake graphite,graphite,23000000.0,,0,,,0.1,0.024,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+214,Hesten,Norway,,,Flake graphite,graphite,2070000.0,,0,,,0.1,0.057999999999999996,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+215,Bukken,Norway,,,Flake graphite,graphite,51030000.0,,0,,,0.1,0.065,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+216,Skardsvåg,Norway,,,Flake graphite,graphite,,,0,,,0.1,0.021,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+217,Kjerkhaugen,Norway,,,Flake graphite,graphite,2420000.0,,0,,,0.1,0.065,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+218,Møkland,Norway,,,Flake graphite,graphite,3400000.0,,0,,,0.1,0.132,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+219,Rise,Norway,,,Flake graphite,graphite,190000.0,,0,,,0.1,0.079,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+220,Sommarland,Norway,,,Flake graphite,graphite,850000.0,,0,,,0.1,0.125,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+221,Brenna,Norway,,,Flake graphite,graphite,7940000.0,,0,,,0.1,0.10099999999999999,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+222,Evassåsen,Norway,,,Flake graphite,graphite,2120000.0,,0,,,0.1,0.076,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+223,Ånstad,Norway,,,Flake graphite,graphite,210000.0,,0,,,0.1,0.368,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+224,Alsvåg,Norway,,,Flake graphite,graphite,250000.0,,0,,,0.1,0.08900000000000001,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+225,Rødhamran,Norway,,,Flake graphite,graphite,1380000.0,,0,,,0.1,0.14800000000000002,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+226,Skogsøya,Norway,,,Flake graphite,graphite,1420000.0,,0,,,0.1,0.2,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+227,Svinøya,Norway,,,Flake graphite,graphite,20000.0,,0,,,0.1,0.11699999999999999,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+228,Jennestad,Norway,,,Flake graphite,graphite,3660000.0,,0,,,0.1,0.096,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+229,Myre,Norway,,,Flake graphite,graphite,,,0,,,0.1,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+230,Nord-Værnes,Norway,,,Flake graphite,graphite,600000.0,,0,,,0.1,0.040999999999999995,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+231,Rendalsvik,Norway,,,Flake graphite,graphite,1900000.0,,0,,,0.1,0.111,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+232,Ancuabe (Triton),Mozambique,,,Flake graphite,graphite,,17000.0,1,,2025.0,0.25,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+233,Aukam,Namibia,,,Flake graphite,graphite,,22000.0,1,,2024.0,0.25,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+234,Orom-Cross,Uganda,,,Flake graphite,graphite,,50000.0,1,,2025.0,0.25,,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+235,Soyuznoye,Russia,48.5,131.5,Flake graphite,graphite,120000000.0,40000.0,1,,2026.0,0.5,0.13,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0
+236,Lac des Iles,Canada,45.82,-75.1,Flake graphite,graphite,4400000.0,25000.0,2,,,1.0,0.067,0.85,0.05,1,,,fixed,0,0,0,0,contained_value,0,0,0,0,contained_value,0,0,0,0

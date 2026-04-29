@@ -1,11 +1,11 @@
 Region,Source_Layer,Country (Short Form),Name,Commodity,Deposit Type,Commodity Product,Status,Feature Type,ADM1 Name,DD Latitude,DD Longitude,Annual Production Capacity,Capacity Units,Major Operating Company,Owner,Reference Year,Total Resource (mt),Resource Grade (TGC%),Contained Graphite (mt),Measured Resource (mt),Measured Grade (TGC%),Measured Graphite (mt),Indicated Resource (mt),Indicated Grade (TGC%),Indicated Graphite (mt),Inferred Resource (mt),Inferred Grade (TGC%),Inferred Graphite (mt),Project Active
-Africa,AFR_Mineral_Facilities,Madagascar,Gallois Mine,Graphite,,<null>,Production,Mines and Quarries,Toamasina,-19.230198,48.945072,150000.0,mt,Etablissements Gallois S.A.,<null>,2018.0,,,,,,,,,,,,,
+Africa,AFR_Mineral_Facilities,Madagascar,Gallois Mine,Graphite,,<null>,Production,Mines and Quarries,Toamasina,-19.230198,48.945072,150000.0,mt,Etablissements Gallois S.A.,<null>,2018.0,,,,,,,,,,,,,2017.0
 Africa,AFR_Mineral_Facilities,Madagascar,Graphmada Mine,Graphite,,<null>,Production,Mines and Quarries,Toamasina,-18.918806,48.991245,6000.0,mt,Bass Metals Ltd.,<null>,2018.0,61900000.0,4.5,2785500.0,,,,,,,,,,
-Africa,AFR_Mineral_Facilities,Madagascar,Mine in Atsinanana Region,Graphite,,<null>,Production,Mines and Quarries,Toamasina,-18.445449,49.218047,10000.0,mt,Power Stand Development (H.K.) Ltd.,<null>,2018.0,,,,,,,,,,,,,
-Africa,AFR_Mineral_Facilities,Madagascar,Sahamamy-Sahasoa Mine,Graphite,,<null>,Production,Mines and Quarries,Toamasina,-18.568337,48.9757,3000.0,mt,Tirupati Graphite Plc,<null>,2018.0,,,,,,,,,,,,,
-Africa,AFR_Mineral_Facilities,Mozambique,Ancuabe Graphite Mine,Graphite,,Graphite,Production,Mines and Quarries,Cabo Delgado,-13.004066,40.000666,9000.0,mt,GK Ancuabe Graphite Mine S.A.,Graphit Kropfmühl GmbH [90%],2018.0,71000000.0,6.46,4584000.0,,,,,,,,,,
-Africa,AFR_Mineral_Facilities,Mozambique,Balama Graphite Operation,Graphite,,Graphite,Production,Mines and Quarries,Cabo Delgado,-13.309337,38.661168,350.0,mt,Syrah Resources Ltd.,Twigg Exploration and Mining Limitada [100%],2018.0,72300000.0,10.0,142100000.0,,,,,,,,,,
-Africa,AFR_Mineral_Facilities,Namibia,Okanjande Mine,Graphite,,Graphite,Care and Maintenance,Mines and Quarries,Otjozondjupa,-20.599951,16.622975,20000.0,mt,Imerys Gecko Holdings (Pty) Ltd.,Imerys Group [51%],2018.0,60400000.0,4.89,2953560.0,,,,,,,,,,
+Africa,AFR_Mineral_Facilities,Madagascar,Mine in Atsinanana Region,Graphite,,<null>,Production,Mines and Quarries,Toamasina,-18.445449,49.218047,63000.0,mt,Power Stand Development (H.K.) Ltd.,<null>,2018.0,,,,,,,,,,,,,2021.0
+Africa,AFR_Mineral_Facilities,Madagascar,Sahamamy-Sahasoa Mine,Graphite,,<null>,Production,Mines and Quarries,Toamasina,-18.568337,48.9757,21000.0,mt,Tirupati Graphite Plc,<null>,2018.0,,,,,,,,,,,,,2019.0
+Africa,AFR_Mineral_Facilities,Mozambique,Ancuabe Graphite Mine,Graphite,,Graphite,Production,Mines and Quarries,Cabo Delgado,-13.004066,40.000666,9000.0,mt,GK Ancuabe Graphite Mine S.A.,Graphit Kropfmühl GmbH [90%],2018.0,71000000.0,6.46,4584000.0,,,,,,,,,,2017.0
+Africa,AFR_Mineral_Facilities,Mozambique,Balama Graphite Operation,Graphite,,Graphite,Production,Mines and Quarries,Cabo Delgado,-13.309337,38.661168,356000.0,mt,Syrah Resources Ltd.,Twigg Exploration and Mining Limitada [100%],2018.0,72300000.0,10.0,142100000.0,,,,,,,,,,2017.0
+Africa,AFR_Mineral_Facilities,Namibia,Okanjande Mine,Graphite,,Graphite,Feasibility,Mines and Quarries,Otjozondjupa,-20.599951,16.622975,31000.0,mt,Imerys Gecko Holdings (Pty) Ltd.,Imerys Group [51%],2018.0,60400000.0,4.89,2953560.0,,,,,,,,,,2024.0
 Africa,AFR_Mineral_Facilities,Zimbabwe,Lynx Graphite Mine,Graphite,,Graphite,Production,Mines and Quarries,Mashonaland West,-16.597273,29.453626,-999.0,,Zimbabwe German Graphite Mines (Private) Ltd.,Graphite Kropmühl division of AMG Advanced Metallurgical Group N.V. [50%],2018.0,,,,,,,,,,,,,
 Africa,AFR_Mineral_Deposits,Kenya,Chawia,Graphite,"Crystalline Graphite, metamorphic",,Exploration,,Taita Taveta,-3.4648,38.38447,,,,,,,,,,,,,,,,,,
 Africa,AFR_Mineral_Deposits,Kenya,Oldoinyo,Graphite,"Crystalline Graphite, metamorphic",,Exploration,,Isiolo,0.74994,37.0,,,,,,,,,,,,,,,,,,
@@ -28,43 +28,43 @@ Africa,AFR_Mineral_Deposits,Madagascar,Sahanavo,Graphite,Metamorphic,,Exploratio
 Africa,AFR_Mineral_Deposits,Madagascar,Tamataue,Graphite,Metamorphic,,Exploration,,Toamasina,-18.1667,49.3833,,,,,,,,,,,,,,,,,,
 Africa,AFR_Mineral_Deposits,Madagascar,Tsaravoniany,Graphite,Metamorphic,,Exploration,,Toamasina,-18.75,48.4333,,,,,,,,,,,,,,,,,,
 Africa,AFR_Mineral_Deposits,Zimbabwe,Lynx,Graphite,Metamorphic,,Exploration,,Mashonaland West,-16.6,29.43333,,,,,,,,,,,,,,,,,,
-Africa,AFR_Mineral_Exploration,Mozambique,6142L,Graphite,,,Exploration,,Cabo Delgado,-13.20998,38.67325,,,, ,2015.0,,,,,,,,,,,,,2015.0
-Africa,AFR_Mineral_Exploration,Madagascar,Antanisoa,Graphite,,,Exploration,,Antananarivo,-19.62,47.49,,,, ,2013.0,,,,,,,,,,,,,2013.0
-Africa,AFR_Mineral_Exploration,Madagascar,Antsirabe,Graphite,,,Exploration,,Toamasina,-18.52,48.597,,,, ,2013.0,,,,,,,,,,,,,2013.0
-Africa,AFR_Mineral_Exploration,Mozambique,Balama,Graphite,,,Feasibility,,Cabo Delgado,-13.1705,38.79699,,,, ,2018.0,1576000000.0,10.7,167988000.0,,,,,,,,,,2018.0
-Africa,AFR_Mineral_Exploration,Madagascar,Belanitra,Graphite,,,Exploration,,Toamasina,-19.645,47.999,,,, ,2013.0,,,,,,,,,,,,,2013.0
-Africa,AFR_Mineral_Exploration,Namibia,Black Range,Graphite,,,Exploration,,Erongo,-21.96773,15.24388,,,, ,2017.0,12460000.0,4.63,576898.0,,,,,,,,,,2017.0
-Africa,AFR_Mineral_Exploration,Tanzania,Bunyu,Graphite,,,Feasibility,,Lindi,-10.29905,39.15626,,,, ,2018.0,588400000.0,4.79,28184360.0,,,,,,,,,,2018.0
-Africa,AFR_Mineral_Exploration,Tanzania,Chilalo,Graphite,,,Feasibility,,Lindi,-9.95093,38.72631,,,, ,2018.0,20100000.0,9.9,1989900.0,,,,,,,,,,2018.0
-Africa,AFR_Mineral_Exploration,Tanzania,Chiliogali,Graphite,,,Exploration,,Lindi,-10.416,38.839,,,, ,2016.0,,,,,,,,,,,,,2016.0
-Africa,AFR_Mineral_Exploration,Malawi,Chiziro,Graphite,,,Exploration,,Dowa,-13.71,34.099,,,, ,2015.0,,,,,,,,,,,,,2015.0
-Africa,AFR_Mineral_Exploration,Mozambique,Dombeya,Graphite,,,Development,,Cabo Delgado,-13.44083,40.30976,,,, ,2016.0,56000000.0,7.0,3920000.0,,,,,,,,,,2016.0
-Africa,AFR_Mineral_Exploration,Tanzania,Epanko,Graphite,,,Feasibility,,Morogoro,-8.585273,36.655357,,,, ,2018.0,34200000.0,9.1,3112200.0,,,,,,,,,,2018.0
-Africa,AFR_Mineral_Exploration,Zimbabwe,Globe,Graphite,,,Exploration,,Matabeleland North,-19.08525,27.10953,,,, ,2015.0,,,,,,,,,,,,,2015.0
-Africa,AFR_Mineral_Exploration,Tanzania,Injaa Hill,Graphite,,,Exploration,,Lindi,-10.36,38.94,,,, ,2014.0,,,,,,,,,,,,,2014.0
-Africa,AFR_Mineral_Exploration,Uganda,Kitgum,Graphite,,,Exploration,,Kitgum,3.39,33.61,,,, ,2015.0,,,,,,,,,,,,,2015.0
-Africa,AFR_Mineral_Exploration,Tanzania,Lindi Jumbo,Graphite,,,Feasibility,,Lindi,-9.91712,38.9065,,,, ,2017.0,41800000.0,10.8,4514400.0,,,,,,,,,,2017.0
-Africa,AFR_Mineral_Exploration,Madagascar,Madagascar,Graphite,,,Exploration,,Toamasina,-18.883333,48.416667,,,, ,2009.0,,,,,,,,,,,,,2009.0
-Africa,AFR_Mineral_Exploration,Madagascar,Madagascar,Graphite,,,Exploration,,Toamasina,-18.56,49.16,,,, ,2013.0,,,,,,,,,,,,,2013.0
-Africa,AFR_Mineral_Exploration,Tanzania,Mahenge Liandu,Graphite,,,Feasibility,,Morogoro,-8.73571,36.73159,,,, ,2018.0,213100000.0,7.8,16621800.0,,,,,,,,,,2018.0
-Africa,AFR_Mineral_Exploration,Tanzania,Mahenge North,Graphite,,,Feasibility,,Morogoro,-8.85294,36.72278,,,, ,2016.0,,,,,,,,,,,,,2016.0
-Africa,AFR_Mineral_Exploration,Tanzania,Mahenge South,Graphite,,,Exploration,,Morogoro,-9.047,36.72,,,, ,2014.0,,,,,,,,,,,,,2014.0
-Africa,AFR_Mineral_Exploration,Tanzania,Makonde,Graphite,,,Exploration,,Morogoro,-8.77,36.73,,,, ,2015.0,,,,,,,,,,,,,2015.0
-Africa,AFR_Mineral_Exploration,Malawi,Malingunde,Graphite,,,Exploration,,Dedza,-14.31259,33.93294,,,, ,2015.0,14500000.0,9.7,1406500.0,,,,,,,,,,2015.0
-Africa,AFR_Mineral_Exploration,Madagascar,Maniry,Graphite,,,Exploration,,Toliary,-24.52345,44.85585,,,, ,2018.0,,,,,,,,,,,,,2018.0
-Africa,AFR_Mineral_Exploration,Tanzania,Merelani-Arusha,Graphite,,,Exploration,,Manyara,-3.588,37.238,,,, ,2015.0,,,,,,,,,,,,,2015.0
-Africa,AFR_Mineral_Exploration,Madagascar,Molo,Graphite,,,Feasibility,,Toliary,-23.99893,45.13187,,,, ,2015.0,141280000.0,6.127,8656226.0,,,,,,,,,,2015.0
-Africa,AFR_Mineral_Exploration,Mozambique,Montepuez central,Graphite,,,Development,,Cabo Delgado,-12.8042,38.71666,,,, ,2015.0,161800000.0,8.1,13105800.0,,,,,,,,,,2015.0
-Africa,AFR_Mineral_Exploration,Ethiopia,Moyale,Graphite,,,Exploration,,Oromia,3.53882,39.00736,,,, ,2014.0,,,,,,,,,,,,,2014.0
-Africa,AFR_Mineral_Exploration,Mozambique,Mozambique,Graphite,,,Exploration,,Cabo Delgado,-13.376,40.29747,,,, ,2014.0,,,,,,,,,,,,,2014.0
-Africa,AFR_Mineral_Exploration,Tanzania,Nachingwea,Graphite,,,Exploration,,Lindi,-10.35549,38.94003,,,, ,2015.0,,,,,,,,,,,,,2015.0
-Africa,AFR_Mineral_Exploration,Tanzania,Nachu,Graphite,,,Development,,Lindi,-9.90747,38.868,,,, ,2016.0,174000000.0,5.4,9396000.0,,,,,,,,,,2016.0
-Africa,AFR_Mineral_Exploration,Tanzania,Ruangwa,Graphite,,,Exploration,,Lindi,-9.79756,39.14175,,,, ,2014.0,,,,,,,,,,,,,2014.0
-Africa,AFR_Mineral_Exploration,Madagascar,Toamasina,Graphite,,,Development,,Toamasina,-18.52065,49.11102,,,, ,2012.0,,,,,,,,,,,,,2012.0
-Africa,AFR_Mineral_Exploration,Madagascar,Vatomaina,Graphite,,,Development,,Toamasina,-18.57571,49.11425,,,, ,2016.0,,,,,,,,,,,,,2016.0
-Africa,AFR_Mineral_Exploration,Chad,Waya Waya,Graphite,,,Exploration,,Wadi Fira,14.85435,21.78082,,,, ,2015.0,,,,,,,,,,,,,2015.0
-Africa,AFR_Mineral_Exploration,Ethiopia,Western Ethiopia,Graphite,,,Exploration,,Gambela Peoples,7.96688,34.52691,,,, ,2013.0,,,,,,,,,,,,,2013.0
-Africa,AFR_Mineral_Exploration,Zimbabwe,Zimbabwe German,Graphite,,,Exploration,,Mashonaland West,-16.59507,29.45208,,,, ,2012.0,,,,,,,,,,,,,2012.0
+Africa,AFR_Mineral_Exploration,Mozambique,6142L,Graphite,,,Exploration,,Cabo Delgado,-13.20998,38.67325,,,, ,,,,,,,,,,,,,,2015.0
+Africa,AFR_Mineral_Exploration,Madagascar,Antanisoa,Graphite,,,Exploration,,Antananarivo,-19.62,47.49,,,, ,,,,,,,,,,,,,,2013.0
+Africa,AFR_Mineral_Exploration,Madagascar,Antsirabe,Graphite,,,Exploration,,Toamasina,-18.52,48.597,,,, ,,,,,,,,,,,,,,2013.0
+Africa,AFR_Mineral_Exploration,Mozambique,Balama,Graphite,,,Feasibility,,Cabo Delgado,-13.1705,38.79699,,,, ,,1576000000.0,10.7,167988000.0,,,,,,,,,,2018.0
+Africa,AFR_Mineral_Exploration,Madagascar,Belanitra,Graphite,,,Exploration,,Toamasina,-19.645,47.999,,,, ,,,,,,,,,,,,,,2013.0
+Africa,AFR_Mineral_Exploration,Namibia,Black Range,Graphite,,,Exploration,,Erongo,-21.96773,15.24388,,,, ,,12460000.0,4.63,576898.0,,,,,,,,,,2017.0
+Africa,AFR_Mineral_Exploration,Tanzania,Bunyu,Graphite,,,Feasibility,,Lindi,-10.29905,39.15626,24000.0,mt,Volt Resources Ltd., ,,588400000.0,4.79,28184360.0,,,,,,,,,,2025.0
+Africa,AFR_Mineral_Exploration,Tanzania,Chilalo,Graphite,,,Feasibility,,Lindi,-9.95093,38.72631,52000.0,mt,Evolution Energy Minerals Ltd., ,,20100000.0,9.9,1989900.0,,,,,,,,,,2025.0
+Africa,AFR_Mineral_Exploration,Tanzania,Chiliogali,Graphite,,,Exploration,,Lindi,-10.416,38.839,,,, ,,,,,,,,,,,,,,2016.0
+Africa,AFR_Mineral_Exploration,Malawi,Chiziro,Graphite,,,Exploration,,Dowa,-13.71,34.099,,,, ,,,,,,,,,,,,,,2015.0
+Africa,AFR_Mineral_Exploration,Mozambique,Dombeya,Graphite,,,Development,,Cabo Delgado,-13.44083,40.30976,,,, ,,56000000.0,7.0,3920000.0,,,,,,,,,,2016.0
+Africa,AFR_Mineral_Exploration,Tanzania,Epanko,Graphite,,,Feasibility,,Morogoro,-8.585273,36.655357,,,, ,,34200000.0,9.1,3112200.0,,,,,,,,,,2018.0
+Africa,AFR_Mineral_Exploration,Zimbabwe,Globe,Graphite,,,Exploration,,Matabeleland North,-19.08525,27.10953,,,, ,,,,,,,,,,,,,,2015.0
+Africa,AFR_Mineral_Exploration,Tanzania,Injaa Hill,Graphite,,,Exploration,,Lindi,-10.36,38.94,,,, ,,,,,,,,,,,,,,2014.0
+Africa,AFR_Mineral_Exploration,Uganda,Kitgum,Graphite,,,Exploration,,Kitgum,3.39,33.61,,,, ,,,,,,,,,,,,,,2015.0
+Africa,AFR_Mineral_Exploration,Tanzania,Lindi Jumbo,Graphite,,,Development,,Lindi,-9.91712,38.9065,40000.0,mt,Walkabout Resources Ltd., ,,41800000.0,10.8,4514400.0,,,,,,,,,,2024.0
+Africa,AFR_Mineral_Exploration,Madagascar,Madagascar,Graphite,,,Exploration,,Toamasina,-18.883333,48.416667,,,, ,,,,,,,,,,,,,,2009.0
+Africa,AFR_Mineral_Exploration,Madagascar,Madagascar,Graphite,,,Exploration,,Toamasina,-18.56,49.16,,,, ,,,,,,,,,,,,,,2013.0
+Africa,AFR_Mineral_Exploration,Tanzania,Mahenge Liandu,Graphite,,,Feasibility,,Morogoro,-8.73571,36.73159,174000.0,mt,Black Rock Mining Ltd., ,,213100000.0,7.8,16621800.0,,,,,,,,,,2025.0
+Africa,AFR_Mineral_Exploration,Tanzania,Mahenge North,Graphite,,,Feasibility,,Morogoro,-8.85294,36.72278,,,, ,,,,,,,,,,,,,,2016.0
+Africa,AFR_Mineral_Exploration,Tanzania,Mahenge South,Graphite,,,Exploration,,Morogoro,-9.047,36.72,,,, ,,,,,,,,,,,,,,2014.0
+Africa,AFR_Mineral_Exploration,Tanzania,Makonde,Graphite,,,Exploration,,Morogoro,-8.77,36.73,,,, ,,,,,,,,,,,,,,2015.0
+Africa,AFR_Mineral_Exploration,Malawi,Malingunde,Graphite,,,Exploration,,Dedza,-14.31259,33.93294,,,, ,,14500000.0,9.7,1406500.0,,,,,,,,,,2015.0
+Africa,AFR_Mineral_Exploration,Madagascar,Maniry,Graphite,,,Feasibility,,Toliary,-24.52345,44.85585,39000.0,mt,Evion Group, ,,,,,,,,,,,,,,2024.0
+Africa,AFR_Mineral_Exploration,Tanzania,Merelani-Arusha,Graphite,,,Exploration,,Manyara,-3.588,37.238,,,, ,,,,,,,,,,,,,,2015.0
+Africa,AFR_Mineral_Exploration,Madagascar,Molo,Graphite,,,Production,,Toliary,-23.99893,45.13187,45000.0,mt,NextSource Materials Inc., ,,141280000.0,6.127,8656226.0,,,,,,,,,,2023.0
+Africa,AFR_Mineral_Exploration,Mozambique,Montepuez central,Graphite,,,Development,,Cabo Delgado,-12.8042,38.71666,,,, ,,161800000.0,8.1,13105800.0,,,,,,,,,,2015.0
+Africa,AFR_Mineral_Exploration,Ethiopia,Moyale,Graphite,,,Exploration,,Oromia,3.53882,39.00736,,,, ,,,,,,,,,,,,,,2014.0
+Africa,AFR_Mineral_Exploration,Mozambique,Mozambique,Graphite,,,Exploration,,Cabo Delgado,-13.376,40.29747,,,, ,,,,,,,,,,,,,,2014.0
+Africa,AFR_Mineral_Exploration,Tanzania,Nachingwea,Graphite,,,Exploration,,Lindi,-10.35549,38.94003,,,, ,,,,,,,,,,,,,,2015.0
+Africa,AFR_Mineral_Exploration,Tanzania,Nachu,Graphite,,,Feasibility,,Lindi,-9.90747,38.868,236000.0,mt,Magnis Energy Technologies Ltd., ,,174000000.0,5.4,9396000.0,,,,,,,,,,2025.0
+Africa,AFR_Mineral_Exploration,Tanzania,Ruangwa,Graphite,,,Exploration,,Lindi,-9.79756,39.14175,,,, ,,,,,,,,,,,,,,2014.0
+Africa,AFR_Mineral_Exploration,Madagascar,Toamasina,Graphite,,,Development,,Toamasina,-18.52065,49.11102,,,, ,,,,,,,,,,,,,,2012.0
+Africa,AFR_Mineral_Exploration,Madagascar,Vatomaina,Graphite,,,Development,,Toamasina,-18.57571,49.11425,,,, ,,,,,,,,,,,,,,2016.0
+Africa,AFR_Mineral_Exploration,Chad,Waya Waya,Graphite,,,Exploration,,Wadi Fira,14.85435,21.78082,,,, ,,,,,,,,,,,,,,2015.0
+Africa,AFR_Mineral_Exploration,Ethiopia,Western Ethiopia,Graphite,,,Exploration,,Gambela Peoples,7.96688,34.52691,,,, ,,,,,,,,,,,,,,2013.0
+Africa,AFR_Mineral_Exploration,Zimbabwe,Zimbabwe German,Graphite,,,Exploration,,Mashonaland West,-16.59507,29.45208,,,, ,,,,,,,,,,,,,,2012.0
 China,CHN_Mineral_Facilities,China,Liumao Mine,Graphite,,,Production,Mines and Quarries,Heilongjiang,45.08,130.78,80000.0,mt,Jixi Puchen Graphite Co. Ltd.,"Jixi Liumao Graphite Resources Co., Ltd.",2023.0,28300000.0,16.0,4528000.0,,,,,,,,,,
 China,CHN_Mineral_Facilities,China,Mine in Jixi,Graphite,,,Production,Mines and Quarries,Heilongjiang,45.62,132.46,100000.0,mt,Jixi Aoyu Graphite Co. Ltd.,"Jixi Aoyu Graphite Co., Ltd.",2023.0,,,,,,,,,,,,,
 China,CHN_Mineral_Facilities,China,Mine in Xinghe,Graphite,,,Production,Mines and Quarries,Nei Mongol,40.87,113.87,10000.0,mt,Nei Mongol Xinghe Jingyin Graphite Co. Ltd.,"Nei Mongol Xinghe Jingxin Graphite Co., Ltd.",2023.0,,,,,,,,,,,,,
@@ -189,12 +189,12 @@ Australia,USGS_Flake_Graphite_2024,Australia,Golden Gate Project,Graphite,Flake 
 Latin America & Caribbean,USGS_Flake_Graphite_2024,Brazil,Santa Cruz,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Bahia,-16.55550151,-39.60322818,,,,,2020.0,22800000.0,2.3,524400.0,,,,,,,,,,
 North America,USGS_Flake_Graphite_2024,Canada,Bell Graphite Project,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Quebec,45.5916581,-75.3667521,,,,,2017.0,3380000.0,3.0,101400.0,,,,,,,,,,
 North America,USGS_Flake_Graphite_2024,Canada,Asbury,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Quebec,46.1443032,-75.5525925,,,,,2012.0,4700000.0,8.69,408430.0,,,,,,,,,,
-North America,USGS_Flake_Graphite_2024,Canada,Matawinie Graphite Project (South Zone),Graphite,Flake graphite deposit,Flake graphite,Exploration,,Quebec,46.6165695,-73.922326,,,,,2018.0,45500000.0,3.67,1669850.0,,,,,,,,,,
-North America,USGS_Flake_Graphite_2024,Canada,Bissett Creek,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Ontario,46.1248429,-78.0569456,,,,,2013.0,122500000.0,1.8,2205000.0,,,,,,,,,,
+North America,USGS_Flake_Graphite_2024,Canada,Matawinie Graphite Project (South Zone),Graphite,Flake graphite deposit,Flake graphite,Exploration,,Quebec,46.6165695,-73.922326,103000.0,mt,Nouveau Monde Graphite Inc.,,2018.0,45500000.0,3.67,1669850.0,,,,,,,,,,2026.0
+North America,USGS_Flake_Graphite_2024,Canada,Bissett Creek,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Ontario,46.1248429,-78.0569456,44000.0,mt,Northern Graphite Corp.,,2013.0,122500000.0,1.8,2205000.0,,,,,,,,,,2026.0
 North America,USGS_Flake_Graphite_2024,Canada,Matawinie Graphite Project (West Zone),Graphite,Flake graphite deposit,Flake graphite,Exploration,,Quebec,46.6327916,-73.9654657,,,,,2018.0,142800000.0,4.19,5983320.0,,,,,,,,,,
 China,USGS_Flake_Graphite_2024,China,Dawudian Graphite Mine,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Inner Mongolia,41.714002,108.062157,,,,,2017.0,680000000.0,3.8,25840000.0,,,,,,,,,,
 Europe,USGS_Flake_Graphite_2024,Greenland,Amitsoq,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Kommune Kujalleq,60.2856587,-45.1266969,,,,,2022.0,23000000.0,20.0,4600000.0,,,,,,,,,,
-Africa,USGS_Flake_Graphite_2024,Guinea,Lola Graphite Project,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Nzérékoré,7.77998,-8.55559,,,,,2019.0,50300000.0,4.08,2052240.0,,,,,,,,,,
+Africa,USGS_Flake_Graphite_2024,Guinea,Lola Graphite Project,Graphite,Flake graphite deposit,Flake graphite,Feasibility,,Nzérékoré,7.77998,-8.55559,92000.0,mt,SRG Mining Inc.,,2019.0,50300000.0,4.08,2052240.0,,,,,,,,,,2026.0
 Africa,USGS_Flake_Graphite_2024,Malawi,Katengeza,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Dowa,-13.761893,34.2340037,,,,,2016.0,2700000.0,5.8,156600.0,,,,,,,,,,
 Africa,USGS_Flake_Graphite_2024,Malawi,Duwi,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Central,-13.9634669,33.9699276,,,,,2016.0,8600000.0,7.1,610600.0,,,,,,,,,,
 Latin America & Caribbean,USGS_Flake_Graphite_2024,Mexico,El Tejon Production,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Oaxaca,17.3316,-96.9145,,,,,2014.0,22935423.0,3.52,807327.0,,,,,,,,,,
@@ -214,7 +214,7 @@ North America,USGS_Flake_Graphite_2024,Canada,Mousseau West Property,Graphite,Fl
 North America,USGS_Flake_Graphite_2024,Canada,La Loutre Project,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Quebec,46.0363776,-75.0057995,,,,,2023.0,35100000.0,3.46,1214460.0,,,,,,,,,,
 North America,USGS_Flake_Graphite_2024,Canada,Lac Knife,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Quebec,52.54974,-67.18179,,,,,2023.0,12600000.0,16.12,2031120.0,,,,,,,,,,
 North America,USGS_Flake_Graphite_2024,Canada,Lac Gueret,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Quebec,51.124706,-69.0621735,,,,,2018.0,83153000.0,17.2,14302316.0,,,,,,,,,,
-Europe/Asia,USGS_Flake_Graphite_2024,Russia,Soyuznoye,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Orenburg Oblast,50.833651,60.178645,,,,,2017.0,116000000.0,13.0,15080000.0,,,,,,,,,,
+Europe/Asia,USGS_Flake_Graphite_2024,Russia,Uralskiy Grafit,Graphite,Flake graphite deposit,Flake graphite,Production,,Chelyabinsk Oblast,50.833651,60.178645,20000.0,mt,AO Uralskiy Grafit,,2017.0,116000000.0,13.0,15080000.0,,,,,,,,,,
 Africa,USGS_Flake_Graphite_2024,South Africa,Steamboat,Graphite,Flake graphite deposit,Flake graphite,Exploration,,Limpopo,-23.3343822,29.4371157,,,,,2021.0,3500000.0,8.8,308000.0,,,,,,,,,,
 Australia,USGS_Flake_Graphite_2024,Australia,Koppio Historic Mine,Graphite,Flake graphite deposit,Flake graphite,Exploration,,South Australia,-34.427326,135.9080366,,,,,2015.0,3060000.0,7.16,219096.0,,,,,,,,,,
 Australia,USGS_Flake_Graphite_2024,Australia,Wilclo South,Graphite,Flake graphite deposit,Flake graphite,Exploration,,South Australia,-33.2984524,136.4433628,,,,,2022.0,6380000.0,8.8,561440.0,,,,,,,,,,
@@ -247,3 +247,8 @@ Europe,Norway_Gautneb_2020,Norway,Jennestad,Graphite,Flake graphite (granulite f
 Europe,Norway_Gautneb_2020,Norway,Myre,Graphite,Flake graphite (granulite facies),,Exploration,,Vesterålen,,,,,,,2020.0,,,,,,,,,,,,,
 Europe,Norway_Gautneb_2020,Norway,Nord-Værnes,Graphite,Flake graphite (granulite facies),,Exploration,,Holandsfjorden,,,,,,,2020.0,600000.0,4.1,20000.0,,,,,,,600000.0,4.1,20000.0,
 Europe,Norway_Gautneb_2020,Norway,Rendalsvik,Graphite,Flake graphite (granulite facies),,Exploration,,Holandsfjorden,,,,,,,2020.0,1900000.0,11.1,210000.0,,,,,,,1900000.0,11.1,210000.0,
+Africa,USGS_FS2024_3029_Africa,Mozambique,Ancuabe (Triton),Graphite,Flake graphite,,Feasibility,,,,,17000.0,mt,Triton Minerals Ltd.,,,,,,,,,,,,,,,2025.0
+Africa,USGS_FS2024_3029_Africa,Namibia,Aukam,Graphite,Flake graphite,,Feasibility,,,,,22000.0,mt,Gratomic Inc.,,,,,,,,,,,,,,,2024.0
+Africa,USGS_FS2024_3029_Africa,Uganda,Orom-Cross,Graphite,Flake graphite,,Feasibility,,,,,50000.0,mt,Blencowe Resources plc,,,,,,,,,,,,,,,2025.0
+Europe/Asia,USGS_MYB_Russia_2020-21,Russia,Soyuznoye,Graphite,Flake graphite,,Development,,Jewish Autonomous Oblast,48.5,131.5,40000.0,mt,OOO Dalnevostochnyi Grafit,,,120000000.0,13.0,15600000.0,,,,,,,,,,2026.0
+North America,NRCan_Graphite_Facts_2026,Canada,Lac des Iles,Graphite,Flake graphite,,Production,,Quebec,45.82,-75.1,25000.0,mt,Northern Graphite Corp.,,,4400000.0,6.7,316000.0,,,,,,,,,,

@@ -128,6 +128,41 @@ row_index,name,field,old_value,new_value,source
 261.0,Myre,NEW RECORD,,Myre,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
 262.0,Nord-Værnes,NEW RECORD,,Nord-Værnes,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
 263.0,Rendalsvik,NEW RECORD,,Rendalsvik,"Gautneb et al. (2020), Minerals 10(7), 626, Table 1. doi:10.3390/min10070626"
+211.0,Lola Graphite Project,Annual Production Capacity,,92000,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+211.0,Lola Graphite Project,Status,Exploration,Feasibility,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+0.0,Gallois Mine,Status,Assumed Active,Production,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+3.0,Sahamamy-Sahasoa Mine,Annual Production Capacity,3000.0,21000,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+3.0,Sahamamy-Sahasoa Mine,Status,Assumed Active,Production,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+2.0,Mine in Atsinanana Region,Annual Production Capacity,10000.0,63000,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+2.0,Mine in Atsinanana Region,Status,Assumed Active,Production,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+58.0,Molo,Annual Production Capacity,,45000,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+58.0,Molo,Status,Feasibility Study,Production,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+56.0,Maniry,Annual Production Capacity,,39000,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+56.0,Maniry,Status,Exploration,Feasibility,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+4.0,Ancuabe Graphite Mine,Status,Assumed Active,Production,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+5.0,Balama Graphite Operation,Annual Production Capacity,350.0,356000,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+5.0,Balama Graphite Operation,Status,Assumed Active,Production,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+264.0,Ancuabe (Triton),NEW RECORD,,Ancuabe (Triton),"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+265.0,Aukam,NEW RECORD,,Aukam,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+6.0,Okanjande Mine,Annual Production Capacity,20000.0,31000,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+6.0,Okanjande Mine,Status,C&M,Feasibility,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+48.0,Lindi Jumbo,Annual Production Capacity,,40000,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+48.0,Lindi Jumbo,Status,Feasibility Study,Development,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+37.0,Bunyu,Annual Production Capacity,,24000,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+37.0,Bunyu,Status,Feasibility Study,Feasibility,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+38.0,Chilalo,Annual Production Capacity,,52000,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+38.0,Chilalo,Status,Feasibility Study,Feasibility,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+51.0,Mahenge Liandu,Annual Production Capacity,,174000,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+51.0,Mahenge Liandu,Status,Feasibility Study,Feasibility,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+64.0,Nachu,Annual Production Capacity,,236000,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+64.0,Nachu,Status,Pre-Production,Feasibility,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+266.0,Orom-Cross,NEW RECORD,,Orom-Cross,"USGS Fact Sheet 2024-3029 (Oct 2024), Table 1: Graphite projects developed or planned in Africa 2017-2026"
+231.0,Uralskiy Grafit,Annual Production Capacity,,20000,USGS MYB Russia 2020-21 (Dec 2024); USGS MCS 2025 (Jan 2025); Resource World Magazine (2025)
+231.0,Uralskiy Grafit,Name,Soyuznoye,Uralskiy Grafit,USGS MYB Russia 2020-21 (Dec 2024); USGS MCS 2025 (Jan 2025); Resource World Magazine (2025)
+267.0,Soyuznoye,NEW RECORD,,Soyuznoye,USGS MYB Russia 2020-21 (Dec 2024); USGS MCS 2025 (Jan 2025); Resource World Magazine (2025)
+268.0,Lac des Iles,NEW RECORD,,Lac des Iles,NRCan Graphite Facts (Jan 2026); Northern Graphite Corp MRE (Feb 2025); NMG NI 43-101 FS (2022)
+207.0,Bissett Creek,Annual Production Capacity,,44000,NRCan Graphite Facts (Jan 2026); Northern Graphite Corp MRE (Feb 2025); NMG NI 43-101 FS (2022)
+206.0,Matawinie Graphite Project (South Zone),Annual Production Capacity,,103000,NRCan Graphite Facts (Jan 2026); Northern Graphite Corp MRE (Feb 2025); NMG NI 43-101 FS (2022)
 175.0,Itapecerica,REMOVED (shared capacity),Itapecerica,Duplicate of Salto da Divisa,Deduplication
 177.0,Pedra Azul,REMOVED (shared capacity),Pedra Azul,Duplicate of Salto da Divisa,Deduplication
 179.0,San Juan Mine,REMOVED (shared capacity),San Juan Mine,Duplicate of Lourdes Mine,Deduplication
